@@ -1,1 +1,1 @@
-web: gunicorn calikes-codestar.wsgi
+web: gunicorn codestar.wsgi
